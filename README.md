@@ -12,8 +12,8 @@ Clone this repository and construct file directory.
     cd catkin_ws
     mkdir src
     cd src
-    git clone https://github.com/liuguitao/AVP-SLAM-PLUS.git
-    cd AVP-SLAM-PLUS/avp_slam_plus/model/
+    git clone https://github.com/bithuanglq/Neotic-AVP-Demo.git
+    cd Neotic-AVP-Demo/avp_slam_plus/model/
     unzip my_ground_plane.zip -d ~/.gazebo/models/
 ```
 
