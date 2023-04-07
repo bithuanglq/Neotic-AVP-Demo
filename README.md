@@ -38,6 +38,7 @@ Start mapping
 Open a new terminal and use keyboard to control robot
 ```
     chmod 777 src/Neotic-AVP-Demo/simlate_gazebo/robot_control/scripts/robot_control.py
+    source ~/catkin_ws/devel/setup.bash
     roslaunch robot_control robot_control.launch
 ```
 
@@ -48,6 +49,7 @@ If you have saved map as mentioned above, you can localization based on your sav
 ```
 Open a new terminal and use keyboard to control robot
 ```
+    source ~/catkin_ws/devel/setup.bash
     roslaunch robot_control robot_control.launch
 ```
 
