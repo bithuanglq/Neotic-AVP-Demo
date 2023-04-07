@@ -35,11 +35,6 @@ catkin_package(
    INCLUDE_DIRS include
 )
 
-add_executable(pointCloudFromRGBD src/pointCloudFromRGBD.cpp)
-target_link_libraries(pointCloudFromRGBD ${catkin_LIBRARIES} ${OpenCV_LIBS} ${PCL_LIBRARIES})
-
-add_executable(pointCloudFromRGB src/pointCloudFromRGB.cpp)
-target_link_libraries(pointCloudFromRGB ${catkin_LIBRARIES} ${OpenCV_LIBS} ${PCL_LIBRARIES})
 
 add_executable(mapping src/mapping.cpp)
 target_link_libraries(mapping ${catkin_LIBRARIES} ${OpenCV_LIBS} ${PCL_LIBRARIES})
