@@ -43,7 +43,7 @@ Open a new terminal and use keyboard to control robot
 ```
 
 # 5. Localization
-If you have saved map as mentioned above, you can localization based on your saved map.
+If you have saved map as mentioned above, you can do localization based on your saved map.
 ```
     roslaunch avp_slam_plus localizationRGB.launch
 ```
