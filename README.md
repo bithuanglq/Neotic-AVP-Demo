@@ -1,1 +1,0 @@
-# Neotic-AVP-Demo
