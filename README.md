@@ -1,5 +1,5 @@
 ## Neotic-AVP-Demo
-This is a simplified  version of  [This repository](https://github.com/liuguitao/AVP-SLAM-PLUS)， some modifications are made to preserve the basic mapping and localization functions that can be applied to [ROS Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu).
+This is a simplified  version of  [This repository](https://github.com/liuguitao/AVP-SLAM-PLUS)， some modifications are made to preserve the basic mapping and localization functions in RGB mode that can be applied to [ROS Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu).
 
 # 1. Requirement
 [Ubuntu 20.04 LTS](https://releases.ubuntu.com/focal/), [ROS Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu) and [Gazebo-11](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install).
