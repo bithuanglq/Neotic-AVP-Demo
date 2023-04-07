@@ -25,7 +25,7 @@ Clone this repository and construct file directory.
 ```
 
 # 4. Mapping
-To enable map saving and utilize it for localization purposes (this repository only take RGB mode for example), it is important to ensure that your configuration file has been correctly set. The config file is located at ** avp_slam_plus/config/configFile.yaml **
+To enable map saving and utilize it for localization purposes (this repository only take RGB mode for example), it is important to ensure that your configuration file has been correctly set. The config file is located at **avp_slam_plus/config/configFile.yaml**
 ```
     mapSave: true
     mapSaveLocation: your map file address (absolute path) 
